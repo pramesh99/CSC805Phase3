@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/CSC805Phase3/static/css/main.4bee0cff.css",
+    "main.js": "/CSC805Phase3/static/js/main.19d9fa12.js",
+    "static/media/MedianIncomePie.png": "/CSC805Phase3/static/media/MedianIncomePie.cd5d31e575703967ae4a.png",
+    "static/media/MeanIncomePie.png": "/CSC805Phase3/static/media/MeanIncomePie.323bd46eef9dafaa1465.png",
+    "static/media/avgWealthBar.png": "/CSC805Phase3/static/media/avgWealthBar.cc2d8444dfdaf833d162.png",
+    "static/media/Line.png": "/CSC805Phase3/static/media/Line.14be578bfd1d161d9a0f.png",
+    "static/media/avgWealthPie.png": "/CSC805Phase3/static/media/avgWealthPie.9dd6a09aff6f8410981a.png",
+    "static/media/disposable.png": "/CSC805Phase3/static/media/disposable.b6babe7ab4fb43c105a4.png",
+    "index.html": "/CSC805Phase3/index.html",
+    "main.4bee0cff.css.map": "/CSC805Phase3/static/css/main.4bee0cff.css.map",
+    "main.19d9fa12.js.map": "/CSC805Phase3/static/js/main.19d9fa12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bee0cff.css",
+    "static/js/main.19d9fa12.js"
+  ]
+}
