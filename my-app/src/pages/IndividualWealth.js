@@ -1,6 +1,6 @@
 import { Container } from 'react-bootstrap';
 import React from 'react';
-import WealthChart from '../components/MedianWealthChart';
+import WealthChart from '../components/WealthChart';
 
 
 const Home = () => {
