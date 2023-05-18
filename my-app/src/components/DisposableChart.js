@@ -9,6 +9,7 @@ const DisposableChart = () => {
     const margin = { top: 20, right: 100, bottom: 100, left: 100 };
     const width = 800 - margin.left - margin.right;
     const height = 1000 - margin.top - margin.bottom;
+    d3.select(chartRef.current).select('svg').remove();
     // Load the data
     var data = [
   { year: "1977", "Mean equivalised disposable income": 15246, "Median equivalised disposable income": 13682 },
