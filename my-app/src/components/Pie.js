@@ -107,7 +107,7 @@ function PieChart() {
   return (
     <div>
       <br></br>
-      <h2 style={{paddingLeft: '30px'}}> Mean income of Individuals over the past few years</h2>
+      <h2 style={{paddingLeft: '30px', color: 'white'}}> Mean income of Individuals over the past few years</h2>
       <h3></h3>
       <div ref={chartRef}></div>
     </div>

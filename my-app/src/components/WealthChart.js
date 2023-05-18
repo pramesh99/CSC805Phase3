@@ -17,7 +17,7 @@ const WealthChart = () => {
             </Col>
             <Col md={5}>
               <h4 style={{ color: "#e7c06b", padding: "0.5em", paddingRight: "15px", paddingTop: "80px" }} className="fw-light text-break">
-                The stacked bar chart represents the average total individual wealth over time periods ranging from July 2010 to March 2020. The chart consists of two bars for each time period, one representing the mean and the other representing the median. The x-axis shows the time period and the y-axis represents the average wealth. The bar chart shows that both the mean and median wealth increased steadily over time, with the mean wealth being consistently higher than the median. The chart also highlights the increase in wealth from the period of April 2016 to March 2018, during which both the mean and median wealth saw a significant rise. Overall, the chart gives an idea of the average wealth trends over the past decade.
+              The following bar chart represents the average total individual wealth over time periods ranging from July 2010 to March 2020. The chart consists of bars each for different time period representing the average. The X-axis shows the time period over a range and Y-axis represents the Average Wealth. The bar chart clearly represents a steady increase over time from July 2010 to March 2020 with average of mean and median combined constantly increasing. Overall, the chart gives an idea of the average wealth trends over the past decade.
               </h4>
             </Col>
           </Row>

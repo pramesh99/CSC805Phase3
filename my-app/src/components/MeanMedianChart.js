@@ -80,8 +80,7 @@ function MeanMedianChart() {
 
   return (
     <div>
-      <h2 style={{paddingLeft: "20px"}}>Average Total Individual Wealth</h2>
-      <h3 style={{paddingLeft: "20px"}}> July 2010 to March 2020</h3>
+      <h2 style={{paddingLeft: "20px", color:'white'}}>Average Total Individual Wealth<br/> July 2010 to March 2020</h2>
       <div ref={chartRef}></div>
     </div>
   );

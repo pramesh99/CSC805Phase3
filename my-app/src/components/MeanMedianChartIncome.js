@@ -171,7 +171,7 @@ function MeanMedianChartIncome() {
   return (
     <div>
       <br></br>
-      <h1 style={{marginLeft: "30px"}}>Mean and Median</h1>
+      <h1 style={{marginLeft: "30px", color:'white'}}>Mean and Median</h1>
       <br></br>
       <div ref={chartRef}></div>
       <br></br>

@@ -61,8 +61,7 @@ function PieChart() {
 
     return (
         <div>
-            <h2 style={{paddingLeft: "20px"}}>Average total individual wealth</h2>
-            <h3 style={{paddingLeft: "20px"}}> July 2010 to March 2020</h3>
+            <h2 style={{paddingLeft: "20px", color:'white'}}>Average total individual wealth<br/>July 2010 to March 2020</h2>
             <br />
             <div ref={chartRef}></div>
         </div>
